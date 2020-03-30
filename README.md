@@ -3,6 +3,7 @@
 An unofficial node.js lowlevel wrapper for the Bybit Cryptocurrency Derivative
 exchange API.
 
+Great thanks to **Stefan Aebischer** who is the original author of this package. 
 
 ## Installation
 
